@@ -1,0 +1,15 @@
+body{
+  margin: 50px;
+  background: lightgreen;
+}
+h1{
+  background-color: black;
+  color: white;
+}
+label{
+  color: blue;
+  font-size: large;
+}
+ul{
+  background-color: azure;
+}
