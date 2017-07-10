@@ -19,6 +19,9 @@ img{
   width: 800px;
   margin-left: 20%;
 }
-.picture > h1{
+h1.picture{
   background: skyblue;
+}
+.important{
+  color: red;
 }
