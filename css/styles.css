@@ -1,10 +1,11 @@
 body{
   margin: 50px;
-  background: lightgreen;
+  background: skyblue;
 }
 h1{
   background-color: black;
   color: white;
+  text-align: center;
 }
 label{
   color: blue;
@@ -12,4 +13,9 @@ label{
 }
 ul{
   background-color: azure;
+}
+img{
+  height: 400px;
+  width: 800px;
+  margin-left: 20%;
 }
