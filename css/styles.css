@@ -19,3 +19,6 @@ img{
   width: 800px;
   margin-left: 20%;
 }
+.picture > h1{
+  background: skyblue;
+}
